@@ -2,7 +2,7 @@ if not game:IsLoaded() then
     game.Loaded:Wait()
 end
 
-local BASE = 'https://raw.githubusercontent.com/bunsasss/Buns-hub/main/games/'
+local BASE = 'https://raw.githubusercontent.com/bunsasss/buns-hub/refs/heads/main/games/'
 
 local games = {
     [104263864475588] = 'kawaiianimerng.lua',
