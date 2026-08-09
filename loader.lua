@@ -9,7 +9,7 @@ local games = {
     [129300814231343] = 'animegirlpaintbynumbers.lua',
 }   
 
-local file = games[game.CreatorId]
+local file = games[game.PlaceId]
 if file then
     task.wait(math.random())
     loadstring(game:HttpGet(BASE .. file))()
