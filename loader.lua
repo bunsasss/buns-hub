@@ -6,7 +6,7 @@ local BASE = 'https://raw.githubusercontent.com/bunsasss/Buns-hub/main/games/'
 
 local games = {
     [104263864475588] = 'kawaiianimerng.lua',
-    [129300814231343] = 'AnimeGirlPaintbyNumbers.lua',
+    [129300814231343] = 'animegirlpaintbynumbers.lua',
 }   
 
 local file = games[game.CreatorId]
